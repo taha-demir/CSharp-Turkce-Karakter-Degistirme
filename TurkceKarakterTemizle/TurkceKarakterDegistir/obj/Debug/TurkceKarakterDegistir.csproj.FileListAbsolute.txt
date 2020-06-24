@@ -1,0 +1,7 @@
+C:\Users\thdmr\source\repos\TurkceKarakterTemizle\TurkceKarakterDegistir\bin\Debug\TurkceKarakterDegistir.exe.config
+C:\Users\thdmr\source\repos\TurkceKarakterTemizle\TurkceKarakterDegistir\bin\Debug\TurkceKarakterDegistir.exe
+C:\Users\thdmr\source\repos\TurkceKarakterTemizle\TurkceKarakterDegistir\bin\Debug\TurkceKarakterDegistir.pdb
+C:\Users\thdmr\source\repos\TurkceKarakterTemizle\TurkceKarakterDegistir\obj\Debug\TurkceKarakterDegistir.csprojAssemblyReference.cache
+C:\Users\thdmr\source\repos\TurkceKarakterTemizle\TurkceKarakterDegistir\obj\Debug\TurkceKarakterDegistir.csproj.CoreCompileInputs.cache
+C:\Users\thdmr\source\repos\TurkceKarakterTemizle\TurkceKarakterDegistir\obj\Debug\TurkceKarakterDegistir.exe
+C:\Users\thdmr\source\repos\TurkceKarakterTemizle\TurkceKarakterDegistir\obj\Debug\TurkceKarakterDegistir.pdb
